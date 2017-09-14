@@ -8,6 +8,9 @@ public class just {
 
 		System.out.println("Hey");
 	
+		System.out.println("Heyyy!!");
+		System.out.println("Commit maa");
+		
 	}
 
 }
