@@ -5,10 +5,6 @@ public class just {
 		// TODO Auto-generated method stub
 
 		System.out.println("love You");
-
-		System.out.println("Hey");
-	
-		System.out.println("Heyyy!!");
 		System.out.println("Commit maa");
 		
 	}
